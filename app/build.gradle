@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.bimeh.iranaccounting'; compileSdk 35
+    defaultConfig { applicationId 'com.bimeh.iranaccounting'; minSdk 24; targetSdk 35; versionCode 2026; versionName '2026.1.0' }
+}
